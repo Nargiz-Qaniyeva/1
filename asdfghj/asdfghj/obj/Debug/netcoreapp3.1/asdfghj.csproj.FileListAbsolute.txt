@@ -1,0 +1,14 @@
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.AssemblyInfo.cs
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.csproj.CoreCompileInputs.cache
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\bin\Debug\netcoreapp3.1\asdfghj.exe
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\bin\Debug\netcoreapp3.1\asdfghj.deps.json
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\bin\Debug\netcoreapp3.1\asdfghj.runtimeconfig.json
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\bin\Debug\netcoreapp3.1\asdfghj.runtimeconfig.dev.json
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\bin\Debug\netcoreapp3.1\asdfghj.dll
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\bin\Debug\netcoreapp3.1\asdfghj.pdb
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.dll
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.pdb
+C:\Users\nargi\Desktop\New folder\asdfghj\asdfghj\obj\Debug\netcoreapp3.1\asdfghj.genruntimeconfig.cache
